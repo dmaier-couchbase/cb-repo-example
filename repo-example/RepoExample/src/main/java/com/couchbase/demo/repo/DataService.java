@@ -20,7 +20,7 @@ public class DataService {
     /**
      * The repository which is used by this data service
      */
-    AccountRepository repo;
+    private AccountRepository repo;
 
     /**
      * Gets passed one or more repos
